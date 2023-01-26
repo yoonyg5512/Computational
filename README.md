@@ -15,5 +15,3 @@ Yeonggyu Yun's codes for ECON 899 taught by Dean Corbae and Jean-Francois Houde 
   PS6: Hopenhayn-Rogerson (JPE, 1993) Economy
 
   PS7: SMM Exercise with AR(1)
-
-  PS8: Likelihood Optimization for Random Utility Models
